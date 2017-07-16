@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# version:2.0
+# version:2.1
 
 from bs4 import BeautifulSoup
 import time
